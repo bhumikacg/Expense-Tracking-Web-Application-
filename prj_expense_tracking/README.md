@@ -26,4 +26,5 @@ This project is an expense management system that consists of a Streamlit fronte
    """commandline 
     streamlit run frontend/app.py
    """
+💼 Linkedin Project Link:
 
