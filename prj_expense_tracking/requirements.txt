@@ -1,0 +1,16 @@
+# this file contains all the packages we are using
+streamlit == 1.51.0
+pandas ==  2.3.3
+pytest == 9.0.1
+fastapi == 0.121.1
+pydantic == 2.12.4
+uvicorn ==  0.38.0
+mysql-connector-python == 9.5.0
+requests == 2.32.3
+
+# 1. below is commmand for getting the version of packages used
+# "pip show pytest" ,"pip show streamlit" etc
+# 2. to install these packages at once,the command is:
+# "pip install -r . \requirements.txt"
+#PS D:\code\prj_expense_tracking> pip install -r . \requirements.txt
+# when the above command is used , all packages are inatalled at one shot.
