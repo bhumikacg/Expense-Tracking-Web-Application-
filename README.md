@@ -1,6 +1,11 @@
 # Expense Management System
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
 
+💼 **Linkedin Post:**  _[Expense Management System ](https://www.linkedin.com/feed/update/urn:li:activity:7404758795752566784/)_
+
+
+**Video Recording:** _[Expense Management System](https://github.com/bhumikacg/Business-Insights-360/blob/main/Business%20Insights%20-%20360.pdf)_
+
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
 - **backend/**: Contains theFastAPI backend server code.
@@ -27,6 +32,6 @@ This project is an expense management system that consists of a Streamlit fronte
     streamlit run frontend/app.py
    """
    
-💼 Linkedin Project Link:  https://www.linkedin.com/feed/update/urn:li:activity:7404758795752566784/
+
 
 
